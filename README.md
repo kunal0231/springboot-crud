@@ -34,7 +34,3 @@ A simple RESTful API built using Spring Boot for managing products. This API sup
 3. Configure your database connection in `application.properties`  
 4. Run the Spring Boot application  
 5. Use Postman or any API client to test the endpoints  
-
----
-
-Feel free to customize this README according to your project specifics. Agar chahiye to main aur detailed version bhi bana sakta hoon, bas bol dena!
